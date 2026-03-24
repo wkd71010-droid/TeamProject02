@@ -3,4 +3,4 @@
 #include "TeamProject02.h"
 #include "Modules/ModuleManager.h"
 
-IMPLEMENT_PRIMARY_GAME_MODULE( FDefaultGameModuleImpl, TeamProject02, "TeamProject02" );
+IMPLEMENT_PRIMARY_GAME_MODULE(FDefaultGameModuleImpl, TeamProject02, "TeamProject02");
